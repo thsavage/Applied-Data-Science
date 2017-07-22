@@ -11,4 +11,6 @@ address neural networks and other classifiers.
 June 16, 2017 Update: Ran Aroussi has developed a fix that saves accessibility to Yahoo Finance.  Thanks, Ran!  Great stuff.
 See the forked directory.  I will update the libraries later in preparation for teaching.
 
+July 22, 2017 Update: I've added a notebook on deep learning with an application in finance.  It uses the Keras API and Google's TensorFlow as the backend.  (TensorFlow is very impressive, as is Keras.)
+
 Feel free to use and adapt.

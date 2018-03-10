@@ -13,4 +13,6 @@ See the forked directory.  I will update the libraries later in preparation for 
 
 July 22, 2017 Update: I've added a notebook on deep learning with an application in finance.  It uses the Keras API and Google's TensorFlow as the backend.  (TensorFlow is very impressive, as is Keras.)
 
+March 10, 2018 Update: Time series notebook and lab updated.  
+
 Feel free to use and adapt.
